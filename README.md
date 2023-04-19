@@ -1,4 +1,4 @@
-# TestYourBrain
+# PickTheColor
 
 ## Created by: Ridhwan Chowdhury
 
